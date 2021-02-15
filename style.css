@@ -32,7 +32,7 @@ div {
     margin-bottom: auto;
 }
 
-.sub1 {
+.subhead1 {
     float: right;
     width: 100px;
     padding: 5px;
@@ -45,7 +45,7 @@ div {
 
 }
 
-.sub2 {
+.subhead2 {
     float: right;
     color: white;
     width: 100px;
@@ -59,7 +59,7 @@ div {
 
 }
 
-.sub3 {
+.subhead3 {
     color: black;
     float: right;
     width: 100px;
@@ -84,9 +84,9 @@ div {
     font-family: 'Titillium Web', sans-serif;
 }
 
-.row {
+/* .row {
     width: 90%;
-}
+} */
 
 
 @media (min-width: 992px) {
